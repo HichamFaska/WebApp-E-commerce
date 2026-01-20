@@ -1,0 +1,15 @@
+{
+    "name": "mawkli/e-commerce",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aymane",
+            "email": "aymanemj@proton.me"
+        }
+    ],
+    "require": {}
+}
